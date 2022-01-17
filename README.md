@@ -1,16 +1,31 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Trevor (AKA: iiTrevqx)</h1>
+<h3 align="center">An average coder</h3>
 
-<!--
-**iiTrevqx/iiTrevqx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 😄 Pronouns: He/Him
+- 🤖 Bot: Moya
+- ✅ Invite: [WIP](discord.com/app)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Discord Status
+<a href="https://discord.com/users/348893877933178880">
+<img height="80px" src="https://discord.c99.nl/widget/theme-4/852437409693433877.png" />
+</a>
+
+</br>
+
+### Languages and Tools:
+<p align="left">
+<img src="https://img.shields.io/badge/Node.JS-black?style=for-the-badge&logo=node.js" />
+<img src="https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=HTML5" />
+<img src="https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3&logoColor=#1572B6" />
+<img src="https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript" />
+</p>
+<br />
+
+---
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+</br>
+<img align="center" alt="iiTrevqx's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=iiTrevqx&show_icons=true&locale=en&theme=dark&layout=compact" />
