@@ -2,8 +2,8 @@
 <h3 align="center">An average coder</h3>
 
 - 😄 Pronouns: He/Him
-- 🤖 Bot: Moya
-- ✅ Invite: [WIP](discord.com/app)
+- 🤖 Bot: Tickets
+- ✅ Invite: [➕](https://discord.com/api/oauth2/authorize?client_id=928853701769191464&permissions=8&scope=bot%20applications.commands)
 
 ---
 
