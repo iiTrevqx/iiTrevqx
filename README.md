@@ -2,15 +2,10 @@
 <h3 align="center">An average coder</h3>
 
 - 😄 Pronouns: He/Him
-- 🤖 Bot: Tickets
+- 🤖 Bot: Captcha
 - ✅ Invite: [👤](https://dsc.gg/captchas)
 
 ---
-
-### Discord Status
-<a href="https://discord.com/users/348893877933178880">
-<img height="80px" src="https://discord.c99.nl/widget/theme-4/348893877933178880.png" />
-</a>
 
 </br>
 
