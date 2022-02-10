@@ -3,7 +3,7 @@
 
 - 😄 Pronouns: He/Him
 - 🤖 Bot: Tickets
-- ✅ Invite: [➕](https://discord.com/api/oauth2/authorize?client_id=928853701769191464&permissions=8&scope=bot%20applications.commands)
+- ✅ Invite: [👤](https://dsc.gg/captchas)
 
 ---
 
