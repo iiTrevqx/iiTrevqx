@@ -1,9 +1,5 @@
-<h1 align="center">Hi 👋, I'm Trevor (AKA: iiTrevqx)</h1>
+<h1 align="center">Hi 👋, I'm Trevor (AKA: trevqxs)</h1>
 <h3 align="center">An average coder</h3>
-
-- 😄 Pronouns: He/Him
-- 🤖 Bot: Captcha
-- ✅ Invite: [👤](https://dsc.gg/captchas)
 
 ---
 
@@ -23,4 +19,4 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 </br>
-<img align="center" alt="iiTrevqx's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=iiTrevqx&show_icons=true&locale=en&theme=dark&layout=compact" />
+<img align="center" alt="trevqxs's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=iiTrevqx&show_icons=true&locale=en&theme=dark&layout=compact" />
