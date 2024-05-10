@@ -19,4 +19,4 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 </br>
-<img align="center" alt="trevqxs's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=iiTrevqx&show_icons=true&locale=en&theme=dark&layout=compact" />
+<img align="center" alt="trevqxs's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=trevqxs&show_icons=true&locale=en&theme=dark&layout=compact" />
